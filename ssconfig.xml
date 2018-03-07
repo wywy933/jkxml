@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<overall>
+	<config name="main_switch">
+		<value>0</value>
+	</config>
+
+	
+	
+	<config name="HOST1">
+		<value>10.14.9.162</value>
+	</config>
+
+	
+	
+	<config name="HOST2">
+		<value>10.14.9.163</value>
+	</config>
+
+	
+	
+	<config name="plc_host">
+		<value>10.14.8.101</value>
+	</config>
+
+
+	
+	
+	<config name="PORT1">
+		<value>2111</value>
+	</config>
+
+	
+	
+	<config name="PORT2">
+		<value>2111</value>
+	</config>
+
+	
+	
+	<config name="plc_port">
+		<value>3002</value>
+	</config>
+
+
+	
+	
+	<config name="buffer_size">
+		<value>16384</value>
+	</config>
+	
+
+
+
+	
+	
+	<config name="plot_switch">
+		<value>1</value>
+	</config>
+
+	<config name="plot_splite">
+		<value>0</value>
+	</config>
+
+	<config name="plot_all">
+		<value>1</value>
+	</config>
+
+	<config name="plot_trolley">
+		<value>0</value>
+	</config>
+
+	<config name="plot_spreader">
+		<value>0</value>
+	</config>
+
+	<config name="plot_yard">
+		<value>1</value>
+	</config>
+	
+
+
+
+	
+	
+	<config name="time_delay_switch">
+		<value>False</value>
+	</config>
+	
+	
+	
+	<config name="time_delay_val">
+		<value>200</value>
+	</config>
+	
+
+
+
+	
+	
+	<config name="process_time_print">
+		<value>0</value>
+	</config>
+	
+
+
+
+	
+	
+	<config name="csv_send">
+		<value>C:\\Users\\Administrator\\Desktop\\jk\\egg.csv</value>
+	</config>
+	
+	
+	
+	<config name="csv_recv">
+		<value>C:\\Users\\Administrator\\Desktop\\jk\\double_egg.csv</value>
+	</config>
+
+	
+	
+	<config name="plc_comm_switch">
+		<value>False</value>
+	</config>
+
+
+
+
+	
+	
+	<config name="start_angle">
+		<value>-5</value>
+	</config>
+
+	
+	
+	<config name="end_angle">
+		<value>185</value>
+	</config>
+
+	
+	
+	<config name="total_number">
+		<value>1141</value>
+	</config>
+
+	
+	
+	<config name="scan_config_rotation">
+		<value>10</value>
+	</config>
+
+	
+	
+	<config name="lidar_1_x_offset">
+		<value>0</value>
+	</config>
+
+	<config name="lidar_1_y_offset">
+		<value>0</value>
+	</config>
+
+	<config name="lidar_1_angle_offset">
+		<value>0.2</value>
+	</config>
+
+	<config name="lidar_2_x_offset">
+		<value>-3.0</value>
+	</config>
+
+	<config name="lidar_2_y_offset">
+		<value>-2.1</value>
+	</config>
+
+	<config name="lidar_2_angle_offset">
+		<value>0</value>
+	</config>
+
+	<config name="lidar_overall_x_offset">
+		<value>1.31</value>
+	</config>
+
+	<config name="lidar_overall_y_offset">
+		<value>21</value>
+	</config>
+
+	<config name="lidar_overall_angle_offset">
+		<value>-0.1</value>
+	</config>
+
+	<config name="trolley_height_high">
+		<value>20.5</value>
+	</config>
+
+	<config name="trolley_height_low">
+		<value>20</value>
+	</config>
+
+	<config name="spreader_range_left">
+		<value>-1.2</value>
+	</config>
+
+	<config name="spreader_range_right">
+		<value>1.2</value>
+	</config>
+
+	<config name="grey_prefix">
+		<value>0</value>
+	</config>
+
+	<config name="trolley_len_preset">
+		<value>61</value>
+	</config>
+
+	<config name="trolley_len_varying_range">
+		<value>0.4</value>
+	</config>
+
+	<config name="spreader_calibration">
+		<value>yes</value>
+	</config>
+
+	<config name="spreader_calibration_tube">
+		<value>33</value>
+	</config>
+
+	<config name="yard_left">
+		<value>10</value>
+	</config>
+
+	<config name="yard_right">
+		<value>9.9</value>
+	</config>
+
+	<config name="yard_spreader_left">
+		<value>-1.5</value>
+	</config>
+
+	<config name="yard_spreader_right">
+		<value>1.5</value>
+	</config>
+
+	<config name="yard_sort_ratio">
+		<value>100</value>
+	</config>
+</overall>
