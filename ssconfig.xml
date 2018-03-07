@@ -2,7 +2,11 @@
 <overall>
 	<config name="main_switch">
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<value>1wywy</value>
+=======
+		<value>0</value>
+>>>>>>> parent of 6777642... change main switch from 0 to 1
 =======
 		<value>0</value>
 >>>>>>> parent of 6777642... change main switch from 0 to 1
